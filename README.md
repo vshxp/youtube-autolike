@@ -1,7 +1,7 @@
 # youtube-autolike
 A simple script to like all videos
 
-#Install
+## Install
 1.  Create a venv environment
     python3 -m venv venv
 
@@ -12,5 +12,5 @@ A simple script to like all videos
     pip -r install requirements.txt
     
 
-#Usage:
+## Usage:
 python youtube-autolike.py {CHANNEL URL}
